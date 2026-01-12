@@ -1,0 +1,7 @@
+{
+  "name": "GeoLocator - HACKVOLT",
+  "description": "A precise location mapping tool built for HACKVOLT. Users can input latitude and longitude coordinates to visualize the exact geographic location on an interactive map. Features real-time validation and responsive design.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
